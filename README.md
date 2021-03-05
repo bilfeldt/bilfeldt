@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🤔 how in the world did you even get here?
+
 <!--
 **bilfeldt/bilfeldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Who is this?
 ```php
 $me = Human::create([
     'first_name => 'Anders',
@@ -38,4 +41,24 @@ $me->educations()->saveMany([
     ]),
 ]);
 ```
+
+#### What are you doing man?
+```json
+{
+    "name": "bilfeldt/portfolio",
+    "type": "project",
+    "description": "My public PHP portfolio.",
+    "keywords": [
+        "php",
+        "laravel"
+    ],
+    "license": "MIT",
+    "require": {
+        "bilfeldt/laravel-http-client-logger": "*"
+    }
+}
+```
+
+#### Are you not just bullshitting me?
+[![Bilfeldt's github stats](https://github-readme-stats.vercel.app/api?username=bilfeldt&hide=stars,issues&show_icons=true&count_private=true)](https://github.com/bilfeldt/github-readme-stats)
 
