@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### Who is this?
 ```php
 $me = Human::create([
-    'first_name => 'Anders',
+    'first_name' => 'Anders',
     'last_name' => 'Bilfeldt',
     'linkedin' => 'https://www.linkedin.com/in/andersbilfeldt/',
     'twitter' => 'https://twitter.com/AndersBilfeldt',
