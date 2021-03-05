@@ -29,13 +29,13 @@ $me = Human::create([
 $me->educations()->saveMany([
     new Education([
         'institution' => 'Technical University of Denmark',
-        'degree' => 'Masters of Science'
+        'degree' => 'Masters of Science',
         'subject' => 'Physics and Nanotechnology',
         'graduated' => 2014,
     ]),
     new Education([
         'institution' => 'Technical University of Denmark',
-        'degree' => 'Bachelor of Science'
+        'degree' => 'Bachelor of Science',
         'subject' => 'Physics and Nanotechnology',
         'graduated' => 2011,
     ]),
