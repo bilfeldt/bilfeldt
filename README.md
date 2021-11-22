@@ -1,3 +1,8 @@
+<!-- ![Anders Bilfeldt Profile Banner](/arts/profile-banner.png) -->
+
+[![website badge](https://img.shields.io/badge/website-github.com-green?style=for-the-badge&logo=github)](https://github.com/bilfeldt)
+[![twitter badge](https://img.shields.io/badge/twitter-@AndersBilfeldt-orange?style=for-the-badge&logo=twitter)](https://twitter.com/andersbilfeldt)
+
 ### Hi there 👋
 
 🤔 how in the world did you even get here?
