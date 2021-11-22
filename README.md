@@ -34,10 +34,10 @@ $me->educations()->saveMany(
         graduated: 2014
     ),
     new Education(
-        'institution: 'Technical University of Denmark',
-        'degree: 'Bachelor of Science',
-        'subject: 'Physics and Nanotechnology',
-        'graduated: 2011
+        institution: 'Technical University of Denmark',
+        degree: 'Bachelor of Science',
+        subject: 'Physics and Nanotechnology',
+        graduated: 2011
     )
 );
 ```
