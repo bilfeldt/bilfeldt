@@ -19,27 +19,27 @@ Here are some ideas to get you started:
 
 #### Who is this?
 ```php
-$me = Human::create([
-    'first_name' => 'Anders',
-    'last_name' => 'Bilfeldt',
-    'linkedin' => 'https://www.linkedin.com/in/andersbilfeldt/',
-    'twitter' => 'https://twitter.com/AndersBilfeldt',
-]);
+$me = Human::create(
+    first_name: 'Anders',
+    last_name: 'Bilfeldt',
+    linkedin: 'https://www.linkedin.com/in/andersbilfeldt/',
+    twitter: 'https://twitter.com/AndersBilfeldt'
+);
 
-$me->educations()->saveMany([
-    new Education([
-        'institution' => 'Technical University of Denmark',
-        'degree' => 'Masters of Science',
-        'subject' => 'Physics and Nanotechnology',
-        'graduated' => 2014,
-    ]),
-    new Education([
-        'institution' => 'Technical University of Denmark',
-        'degree' => 'Bachelor of Science',
-        'subject' => 'Physics and Nanotechnology',
-        'graduated' => 2011,
-    ]),
-]);
+$me->educations()->saveMany(
+    new Education(
+        institution: 'Technical University of Denmark',
+        degree: 'Masters of Science',
+        subject: 'Physics and Nanotechnology',
+        graduated: 2014
+    ),
+    new Education(
+        institution: 'Technical University of Denmark',
+        degree: 'Bachelor of Science',
+        subject: 'Physics and Nanotechnology',
+        graduated: 2011
+    )
+);
 ```
 
 #### What are you doing man?
