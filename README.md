@@ -54,7 +54,9 @@ $me->educations()->saveMany([
     ],
     "license": "MIT",
     "require": {
-        "bilfeldt/laravel-http-client-logger": "*"
+        "bilfeldt/laravel-http-client-logger": "*",
+        "bilfeldt/laravel-request-logger": "*",
+        "bilfeldt/laravel-route-statistics": "*"
     }
 }
 ```
