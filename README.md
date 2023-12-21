@@ -67,5 +67,7 @@ $me->educations()->saveMany(
 ```
 
 #### Are you not just bullshitting me?
-[![Bilfeldt's github stats](https://github-readme-stats.vercel.app/api?username=bilfeldt&hide=stars,issues&show_icons=true&count_private=true)](https://github.com/bilfeldt/github-readme-stats)
+[![Bilfeldt's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilfeldt&hide=stars,issues&show_icons=true&count_private=true)](https://github.com/bilfeldt/github-readme-stats)
+
+![Bilfedt GitHub 3D contribution diagram](/profile-3d-contrib/profile-gitblock.svg)
 
